@@ -8,7 +8,7 @@ import testBase.BaseClass;
 public class TestCase03 extends BaseClass{
 
 	 GiftCards Gf;
-     @Test(priority=1)
+     @Test(priority=1,groups= {"sanity"})
      void getliving() throws InterruptedException, IOException
      {
     	 logger.info("***********Display values under living storage************");
@@ -20,14 +20,14 @@ public class TestCase03 extends BaseClass{
     	 Gf.livingstorage();
      }
      
-     @Test(priority=2)
+     @Test(priority=2,groups= {"sanity","regression"})
      void getvalue() throws InterruptedException
      {
     	 logger.info("************click on Gift Cards***********");
     	 Gf.giftcards();
      }
      
-     @Test(priority=3)
+     @Test(priority=3,groups= {"sanity","regression"})
      void scrolldown() throws InterruptedException
      { 
     	 logger.info("******click on Birthday or anniversary*******");
@@ -35,7 +35,7 @@ public class TestCase03 extends BaseClass{
     	 Gf.Birthdayoranniversary();
      }
      
-     @Test(priority=4)
+     @Test(priority=4,groups= {"sanity","regression"})
      void entervalues()
      {
     	 logger.info("************Enter values under Gift Cards**************");
@@ -45,7 +45,7 @@ public class TestCase03 extends BaseClass{
     	 Gf.next();
      }
      
-     @Test(priority=5)
+     @Test(priority=5,groups= {"sanity","regression"})
      void enterdetails() throws InterruptedException, IOException 
      {
     	 try {
@@ -61,13 +61,13 @@ public class TestCase03 extends BaseClass{
     	 Gf.warning_msg();
     	 Thread.sleep(2000);
      }
-    	 @Test(priority=6)
+    	 @Test(priority=6,groups= {"sanity","regression"})
     	 void msg() throws InterruptedException, IOException
     	 {
     	 Gf.valid_details();
     	 Gf.warning_msg2();
     	 }
-    	 @Test(priority=7)
+    	 @Test(priority=7,groups= {"sanity","regression"})
     	 void valid() throws InterruptedException, IOException
     	 {
     	 Gf.valid_details2();

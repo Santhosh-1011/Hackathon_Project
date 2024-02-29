@@ -4,6 +4,33 @@
   <artifactId>Hackathon_Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.2.5</version>
+					<configuration>
+						<suiteXmlFiles>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
+						</suiteXmlFiles>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.12.1</version>
+					<configuration>
+						<!-- put your configurations here -->
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+  
+  
+  
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -55,12 +82,16 @@
     <version>7.9.0</version>
     <scope>test</scope>
 </dependency>
+
+
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 <dependency>
 <groupId>io.cucumber</groupId>
 <artifactId>cucumber-java</artifactId>
 <version>7.15.0</version>
 </dependency>
+
+
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 <dependency>
 <groupId>io.cucumber</groupId>
@@ -68,12 +99,16 @@
 <version>7.15.0</version>
 <scope>test</scope>
 </dependency>
+
+
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter -->
 <dependency>
 <groupId>tech.grasshopper</groupId>
 <artifactId>extentreports-cucumber7-adapter</artifactId>
 <version>1.14.0</version>
 </dependency>
+
+
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter -->
 <dependency>
 <groupId>tech.grasshopper</groupId>

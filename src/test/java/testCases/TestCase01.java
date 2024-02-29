@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TestCase01 extends BaseClass{
 
 	Homepage hp;
-  @Test(priority=1)
+  @Test(priority=1,groups= {"sanity"})
   @Parameters({"browser"})
   public void searchbookshelves() throws IOException
   {

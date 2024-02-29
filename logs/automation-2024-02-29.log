@@ -1,0 +1,55 @@
+15:51:29.572 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+15:51:34.948 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+17:24:08.977 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:25:57.730 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:26:34.475 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+17:26:38.584 [main] INFO  testCases.TestCase01 - *******Search Price*******
+17:26:45.365 [main] INFO  testCases.TestCase01 - ******HightoLow******
+17:26:46.892 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+17:26:51.263 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+17:26:57.041 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+17:27:05.001 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+17:27:05.888 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+17:27:08.304 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+17:27:14.528 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+17:33:39.859 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:33:47.726 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+17:33:50.899 [main] INFO  testCases.TestCase01 - *******Search Price*******
+17:33:56.181 [main] INFO  testCases.TestCase01 - ******HightoLow******
+17:33:57.187 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+17:34:00.406 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+17:34:04.154 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+17:34:13.297 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+17:34:13.780 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+17:34:14.976 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+17:34:19.360 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+15:23:28.728 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+15:23:30.547 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+15:24:03.747 [main] INFO  testCases.TestCase01 - *******Search Price*******
+15:24:36.498 [main] INFO  testCases.TestCase01 - ******HightoLow******
+15:25:09.505 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+15:25:40.390 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+15:25:49.055 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+15:25:57.711 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+15:25:58.582 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+15:26:00.694 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+15:26:00.738 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+15:27:40.246 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+15:27:45.134 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+15:28:17.987 [main] INFO  testCases.TestCase01 - *******Search Price*******
+15:31:35.294 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+15:31:38.759 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+15:32:11.560 [main] INFO  testCases.TestCase01 - *******Search Price*******
+15:32:44.390 [main] INFO  testCases.TestCase01 - ******HightoLow******
+15:35:27.116 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+15:35:30.440 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+15:36:03.230 [main] INFO  testCases.TestCase01 - *******Search Price*******
+15:36:35.680 [main] INFO  testCases.TestCase01 - ******HightoLow******
+15:37:08.426 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+15:37:38.918 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+15:37:42.684 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+15:38:52.514 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+15:38:53.203 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+15:38:54.826 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+15:38:54.858 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+16:25:52.514 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********

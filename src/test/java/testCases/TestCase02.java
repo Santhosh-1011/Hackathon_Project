@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TestCase02 extends BaseClass{
 	BookShelves Bs;
-	@Test(priority=1)
+	@Test(priority=1,groups= {"sanity"})
 public	void popup() throws InterruptedException
 	{
 		logger.info("********Click KidBookshelves********");
@@ -19,7 +19,7 @@ public	void popup() throws InterruptedException
 		Bs.Bookshelves();
 	}
 	
-	@Test(priority=2)
+	@Test(priority=2,groups= {"sanity","regression"})
 public	void searchprice() throws InterruptedException
 	{
 		logger.info("*******Search Price*******");
@@ -29,7 +29,7 @@ public	void searchprice() throws InterruptedException
 		Bs.slider();
 		Bs.stock();
 	}
-	@Test(priority=3)
+	@Test(priority=3,groups= {"sanity","regression"})
 	void find() throws InterruptedException
 	{
 		logger.info("******HightoLow******");
@@ -37,7 +37,7 @@ public	void searchprice() throws InterruptedException
 		Bs.Recommended();
 		Bs.hightolow();
 	}
-    @Test(priority=4)
+    @Test(priority=4,groups= {"sanity","regression"})
     void printprice() throws IOException, InterruptedException
     {
     	logger.info("************Display Name and Price of the BookShelves**********");

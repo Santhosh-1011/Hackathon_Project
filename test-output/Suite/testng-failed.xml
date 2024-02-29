@@ -11,12 +11,7 @@
       <class name="testCases.TestCase03">
         <methods>
           <include name="teardown"/>
-          <include name="entervalues"/>
-          <include name="getvalue"/>
-          <include name="enterdetails"/>
-          <include name="scrolldown"/>
           <include name="setup"/>
-          <include name="getliving"/>
           <include name="valid"/>
           <include name="msg"/>
         </methods>
