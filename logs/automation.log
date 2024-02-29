@@ -1,0 +1,25 @@
+15:51:29.572 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+15:51:34.948 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+17:24:08.977 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:25:57.730 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:26:34.475 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+17:26:38.584 [main] INFO  testCases.TestCase01 - *******Search Price*******
+17:26:45.365 [main] INFO  testCases.TestCase01 - ******HightoLow******
+17:26:46.892 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+17:26:51.263 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+17:26:57.041 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+17:27:05.001 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+17:27:05.888 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+17:27:08.304 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+17:27:14.528 [main] INFO  testCases.TestCase01 - **************Validate the warning message************
+17:33:39.859 [main] INFO  testCases.TestCase01 - *********Search BookShelves*********
+17:33:47.726 [main] INFO  testCases.TestCase01 - ********Click KidBookshelves********
+17:33:50.899 [main] INFO  testCases.TestCase01 - *******Search Price*******
+17:33:56.181 [main] INFO  testCases.TestCase01 - ******HightoLow******
+17:33:57.187 [main] INFO  testCases.TestCase01 - ************Display Name and Price of the BookShelves**********
+17:34:00.406 [main] INFO  testCases.TestCase01 - ***********Display values under living storage************
+17:34:04.154 [main] INFO  testCases.TestCase01 - ************click on Gift Cards***********
+17:34:13.297 [main] INFO  testCases.TestCase01 - ******click on Birthday or anniversary*******
+17:34:13.780 [main] INFO  testCases.TestCase01 - ************Enter values under Gift Cards**************
+17:34:14.976 [main] INFO  testCases.TestCase01 - ***********Enter the details***********
+17:34:19.360 [main] INFO  testCases.TestCase01 - **************Validate the warning message************

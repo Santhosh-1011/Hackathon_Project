@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TestCase03">
+        <methods>
+          <include name="teardown"/>
+          <include name="entervalues"/>
+          <include name="getvalue"/>
+          <include name="enterdetails"/>
+          <include name="scrolldown"/>
+          <include name="setup"/>
+          <include name="getliving"/>
+          <include name="valid"/>
+          <include name="msg"/>
+        </methods>
+      </class> <!-- testCases.TestCase03 -->
+      <class name="testCases.TestCase02">
+        <methods>
+          <include name="teardown"/>
+          <include name="find"/>
+          <include name="printprice"/>
+          <include name="searchprice"/>
+          <include name="setup"/>
+          <include name="popup"/>
+        </methods>
+      </class> <!-- testCases.TestCase02 -->
+      <class name="testCases.TestCase01">
+        <methods>
+          <include name="teardown"/>
+          <include name="searchbookshelves"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TestCase01 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
